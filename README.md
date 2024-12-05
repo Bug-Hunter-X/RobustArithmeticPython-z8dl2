@@ -1,0 +1,1 @@
+This repository demonstrates a common Python bug and its solution. The `bug.py` file contains code that attempts arithmetic operations on a list containing incompatible data types, resulting in a `TypeError`. The `bugSolution.py` file presents a corrected version of the code with robust error handling to prevent this issue.
